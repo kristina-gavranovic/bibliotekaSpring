@@ -1,0 +1,7 @@
+net\codejava\config\WebMvcConfig.class
+net\codejava\config\JpaConfig.class
+net\codejava\config\WebAppInitializer.class
+net\codejava\lice\LiceRepository.class
+net\codejava\lice\Lice.class
+net\codejava\lice\LiceService.class
+net\codejava\lice\LiceController.class
