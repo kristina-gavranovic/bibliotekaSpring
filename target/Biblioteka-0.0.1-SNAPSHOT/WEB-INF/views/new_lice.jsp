@@ -14,8 +14,9 @@ function goBack() {
 }
 </script>
 <body>
+
 	<div align="center">
-		<h2>Unos novog lica<h2>
+		
 		<form:form action="save" method="post" modelAttribute="lice">
 			<table border="0" cellpadding="5">
 				
